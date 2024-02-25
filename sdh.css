@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+    color: black;
+}
+header a{
+    padding: 10px 10px;
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+}
+.logo{
+    
+    display: inline-block;
+    padding-right: 170vh;
+}
+main{
+    margin: 0 auto;
+    width: 80%;
+}
+.img-1{
+    height: 500px;
+    width: 100%;
+}
+.heading-2 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.heading-3 {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.box-2 , .box-3{
+    display: inline-block;
+    width: 100%;
+}
+.img-2 , .img-3 , .img-4 , .img-5{ 
+    display: inline-block;
+    padding: 0 6px;
+    float: left;
+    width: 25%;
+    margin-top: 7px;
+}
+.img-6{
+    display: inline-block;
+    padding: 0 6px;
+    float: left;
+    width: 100%;
+    margin-top: 7px;
+}
+hr{
+    margin-bottom: 20px;
+}
+main p{
+    margin-bottom: 25px;
+}
+body{
+    min-height: calc(100vh - 52px);
+}
+.box4 {
+    display: inline;
+    padding: 0 6px;
+    float: left;
+    width: 24.99%;
+    margin-top: 7px;
+    /* border: 2px solid black; */
+}
+.box5 {
+    display: inline;
+    padding: 0 6px;
+    float: left;
+    width: 24.99%;
+    margin-top: 7px;
+    /* border: 2px solid black; */
+}
+.box6 {
+    display: inline;
+    padding: 0 6px;
+    float: left;
+    width: 24.99%;
+    margin-top: 7px;
+    /* border: 2px solid black; */
+}
+.box7 {
+    display: inline;
+    padding: 0 10px;
+    float: left;
+    width: 24.99%;
+    margin-top: 7px;
+    /* border: 2px solid black; */
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 5px;
+    padding: 10px;
+}
+.img-p{
+   margin-top: 10px;
+}
+.img-h1{
+    margin-top: 20px;
+
+}
+.btn{
+    display: inline-block;
+  border-radius: 4px;
+  background-color: grey;
+  border: none;
+  color: black;
+  text-align: center;
+  font-size: 14px;
+  padding: 5px;
+  width: 100%;
+  cursor: pointer;
+  /* margin: 5px; */
+  text-decoration: none;
+  margin-bottom: 40px;
+}
+.button{
+    display: inline-block;
+  border-radius: 4px;
+  background-color: black;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 14px;
+  padding: 8px;
+  width: 15%;
+  cursor: pointer;
+  /* margin: 5px; */
+  text-decoration: none;
+  margin-bottom: 40px;
+}
+.name{
+    width: 100%;
+    padding: 5px;
+}
+.email{
+    width: 100%;
+    padding: 5px;
+}
+.subject{
+    width: 100%;
+    padding: 5px;
+}
+.comment{
+    width: 100%;
+    padding: 5px;
+}
+.map{
+  width:100%;
+}
